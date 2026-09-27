@@ -1,2 +1,2 @@
 # frameio
-A single file web framework for developer
+A single file platform as a service for developer
